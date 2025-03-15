@@ -108,6 +108,8 @@ the time remaining before they can claim another.
 
      CLIENT_URL=http://localhost:5173 (Replace with hosted frontend url)
 
+     SESSION_SECRET=<your-secret-session-key>
+
      ```
 
 
