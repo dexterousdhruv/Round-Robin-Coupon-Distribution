@@ -9,7 +9,7 @@ router.get("/claim-coupon", claimCoupon);
 
 async function claimCoupon(req, res, next) {
   try {
-    const COOLDOWN_TIME = 60 * 60 * 1000; // 1 hour
+    const COOLDOWN_TIME = 20 * 60 * 1000; // 120 minutes
     const ipAddress = req.ip;
     let sessionId = req.sessionID
     const now = new Date();
