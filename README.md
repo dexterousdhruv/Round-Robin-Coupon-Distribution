@@ -81,8 +81,8 @@ the time remaining before they can claim another.
 
 1. Clone the repository:
    ```
-   git clone https://github.com/dexterousdhruv/round-robin-coupon-distribution.git
-   cd round-robin-coupon-distribution
+   git clone https://github.com/dexterousdhruv/Round-Robin-Coupon-Distribution.git
+   cd Round-Robin-Coupon-Distribution
    ```
 
 2. Install dependencies for both packages:
