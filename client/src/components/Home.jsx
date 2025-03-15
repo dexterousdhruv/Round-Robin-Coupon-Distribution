@@ -45,7 +45,7 @@ const Home = () => {
   return (
     <div className="relative grid place-content-center min-h-screen bg-[#fce762] p-4">
       <h1 className="mb-10 text-4xl md:text-5xl text-center font-grotesk text-white font-medium drop-shadow-md ">
-        Round Robin Coupon Distribution{" " + API_URL}
+        Round Robin Coupon Distribution{" "}
       </h1>
       <div className="relative max-w-md w-full bg-white rounded-2xl shadow-lg mx-auto">
         {/* Top part of the ticket */}
